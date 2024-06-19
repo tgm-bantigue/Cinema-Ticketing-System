@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+iMaxTicketReservationSystem
+</name>
+</assembly>
+<members>
+<member name="T:iMaxTicketReservationSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources._538684_lock_512x512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.available">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.bar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.check">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.check1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.clapper_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.cust">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.cust1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.cust2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.customers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.Dashboard_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.hand_writing_with_ballpen_318_34729">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.Movie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.rec">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.rec1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.rec2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.rec3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.rec4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.reserved">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.sold">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.sold1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.sold11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.Theater_Masks_logo_8C9D2AD393_seeklogo_com">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:iMaxTicketReservationSystem.My.Resources.Resources.time">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
